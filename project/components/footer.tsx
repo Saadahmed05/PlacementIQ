@@ -65,11 +65,11 @@ export function Footer() {
             <h4 className="text-sm font-semibold">Connect</h4>
             <div className="mt-3 flex gap-3">
               <a
-                href="https://www.linkedin.com/company/lokha-innovation-ecosystem/"
+                href="https://www.linkedin.com/company/lokha-institution-council/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex h-9 w-9 items-center justify-center rounded-lg glass hover:bg-secondary transition-colors"
-                aria-label="Lokha Innovation Ecosystem on LinkedIn"
+                aria-label="Lokha Institution Council on LinkedIn"
               >
                 <Linkedin className="h-4 w-4" />
               </a>
